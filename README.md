@@ -1,1 +1,1 @@
-# github.com/gishuda/gishuda.github.io.
+# gishuda.github.io.
